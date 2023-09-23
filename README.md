@@ -1,4 +1,4 @@
-# backend-intern-assignment
+# backend-project
 The Task Manager API is a simple web service built with Flask that allows users to manage tasks. It 
 provides endpoints for creating, reading, updating, and deleting tasks stored in a SQLite database. 
 This README will guide you on how to test the project and install the required dependencies.
